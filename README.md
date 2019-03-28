@@ -45,3 +45,4 @@ ruby test_file.rb 2000 (batch-size)
 Output on my MacBook Air
 ------------------------
 
+![Screenshot](https://raw.githubusercontent.com/unnitallman/cruby_jruby_comparison/master/output.png)
