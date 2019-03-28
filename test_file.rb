@@ -25,7 +25,7 @@ end
 
 # Read the list of words into an array.
 all_words = []
-File.open('10000_word_lorem_ipsum.txt', 'r').each_line do |line|
+File.open('lorem_ipsum.txt', 'r').each_line do |line|
   line_words = line.split
   line_words.each { |word| all_words << word }
 end
